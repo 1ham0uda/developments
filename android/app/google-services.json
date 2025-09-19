@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498167089645",
+    "project_id": "hamouda-developments",
+    "storage_bucket": "hamouda-developments.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498167089645:android:c8bd24d4b1be5c57bd7fe4",
+        "android_client_info": {
+          "package_name": "com.example.hamouda_developments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3Jyuxgnw-awOVuW1b9A0WwR7W5X6sN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498167089645:android:931c602f65c756febd7fe4",
+        "android_client_info": {
+          "package_name": "com.hamouda.developments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3Jyuxgnw-awOVuW1b9A0WwR7W5X6sN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

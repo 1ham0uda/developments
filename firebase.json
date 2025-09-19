@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "hamouda-developments",
+          "appId": "1:498167089645:android:c8bd24d4b1be5c57bd7fe4",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "hamouda-developments",
+          "configurations": {
+            "android": "1:498167089645:android:c8bd24d4b1be5c57bd7fe4",
+            "ios": "1:498167089645:ios:fd0535759daff7d8bd7fe4",
+            "web": "1:498167089645:web:cd5857ba5cf15c7abd7fe4"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
